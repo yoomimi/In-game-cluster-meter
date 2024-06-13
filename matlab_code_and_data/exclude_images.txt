@@ -1,0 +1,13 @@
+[exclude_images 목록]
+구매창, 승리 후 죽은 상황 삭제
+오퍼레이터 줌인 과정 이미지는 삭제X
+val1cap  8, 9, 50, 93
+val2cap  0, 10
+val3cap  82
+val4cap  -
+val5cap  11
+val6cap  46
+val7cap  44, 68
+val8cap  78, 80, 86, 91
+val9cap  37, 64, 99
+val10cap  36, 76
